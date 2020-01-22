@@ -1,4 +1,4 @@
-#H1 Jogo da Velha - JQuery
+# Jogo da Velha - JQuery
 
 Este jogo foi desenvolvido com intuito didático.
 
